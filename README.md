@@ -72,10 +72,8 @@
 
 
 
-
-
-body {
 ![](Artboard.png)
+
 - 👀 I'm interested in python and open source projects.
 - 🌱 I'm currently learning js - react - vanillajs
 - 💞️ I'm looking to collaborate on open source
@@ -83,4 +81,4 @@ body {
 
 <p align="center">⌨️🖱️🦖</p>
 
-}
+
