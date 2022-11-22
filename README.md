@@ -70,6 +70,11 @@
 
 <p align="center">⌨️🖱️🦖</p>
 
-![](Artboard.png)
 
-<body background="Artboard.png">
+
+
+
+body {
+
+  background-image: url("Artboard.png");
+}
