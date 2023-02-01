@@ -28,7 +28,7 @@
 ### :hammer_and_wrench: Languages and Tools :
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="20" height="20"/> </a>  
-<img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="20" height="20"/> </a>   
+<!-- <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="20" height="20"/> </a> 
 <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="20" height="20"/> </a> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="20" height="20"/> </a> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="20" height="20"/> </a> 
@@ -61,7 +61,7 @@
 <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="20" height="20"/> </a> 
 <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="20" height="20"/> </a> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="20" height="20"/> </a> 
-<img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="20" height="20"/> </a> </p>
+<img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="20" height="20"/> </a> </p>    -->
 
 - 👀 I'm interested in python and open source projects.
 - 🌱 I'm currently learning js - react - vanillajs
