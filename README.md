@@ -28,8 +28,12 @@
 ### :hammer_and_wrench: Languages and Tools :
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="20" height="20"/> </a>  
+<img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="20" height="20"/> </a>
+<img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="20" height="20"/> </a> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20"/> </a> 
+
 <!-- <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="20" height="20"/> </a> 
-<img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="20" height="20"/> </a> 
+
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="20" height="20"/> </a> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="20" height="20"/> </a> 
 <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="20" height="20"/> </a> 
